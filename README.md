@@ -23,7 +23,7 @@ Python (OOP) ETL pipeline for scraping and analyzing plant prices, with PostgreS
 
 [LinkedIn](https://linkedin.com/in/ricardochz) · [Contact](mailto:gic.rc455@gmail.com) 
 
-
+[https://www.codewars.com/users/richiechz-dev/badges/small]
 
 <!--
 **richiechz-dev/richiechz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
